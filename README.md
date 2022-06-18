@@ -1,6 +1,7 @@
 # Final-Project
 
-<h3>Django를 이용한 Web Server구축</h3><br><br><br><br><br>
+<h3>Django를 이용한 Web Server구축</h3><br>
+19_32181267_김형인<br><br><br><br>
 
 window powershell에서 pip명령어를 통해 Django를 설치해준다.
 <img src="https://user-images.githubusercontent.com/103643538/174446385-063256cf-72af-43a6-9fe7-8a52246a62c3.png"><br><br><br>
