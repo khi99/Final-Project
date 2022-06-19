@@ -64,3 +64,15 @@ settings.py 내에서 allowed_host에 ip주소를 추가해준다.<br>
 
 다른기기(데이터로 사용중인 내 핸드폰) 접속화면<br>
 <img src="https://user-images.githubusercontent.com/103643538/174446411-b25b8686-26e0-42b1-ae9f-09cd55e515c9.jpg"><br><br><br>
+
+<br><br><br>
+여기서 클라우드 서버를 이용하여 여는 방법을 찾아봤는데 클라우스 서비스중 구름ide와 네이버 클라우드에 가입을 해보았다.<br>
+구름 ide는 클라우드와 개발환경까지 같이 제공하는 서비스를 제공한다고 하는데 컨테이너를 하나 생성해서 실행을 해보면 하나의 가상공간이 나온다.<br>
+아예 새로운 환경이라 그런지 여기서 장고설치를 아예 처음부터 다시해야되는듯 보였다.
+<img src="https://user-images.githubusercontent.com/103643538/174478171-aa9935c9-5d21-47f4-9acb-17d9311e4143.PNG"><br><br><br>
+
+
+네이버 클라우드는 클라우드서비스를 제공하는데 결제수단을 먼저 등록해야 서버시스템을 사용할수있고, 서버 사양에따라, 공인ip를 추가할때마다 요금이 자동으로 빠져나가 조금 겁이나서 시도를 해보진 못했다...<br>
+여기서 결제를 하여 공인ip를 할당받으면 그 공인ip를 내 윈도우 visual studio code에서 작업한 장고에 allow host로 추가하여 그 주소로 서버를 열어서 작동시키는게 가능할것같았다.
+<img src="https://user-images.githubusercontent.com/103643538/174478062-2d4b7294-5a22-4849-a083-5f64e20767f9.PNG"><br>
+<img src="https://user-images.githubusercontent.com/103643538/174478063-b089dcc0-cebd-4aa2-8c87-0817e773e69a.PNG"><br>
