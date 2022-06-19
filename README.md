@@ -21,7 +21,7 @@ Django파일이 생성된것을 볼수있고 새로운 프로젝트를 추가해
 
 지금 이 서버로 운영되는 페이지에, 내가 직접 작성한 HTML웹페이지를 넣어서 활용해보려한다.<br><br>
 
-그러기위해서 먼저 Django에서의 "Views.py"라는 파일과 "템플릿"이라는 요소를 알아야하는데<br> Django에서의 View가 다른 MVC Framework에서의 Controller와 유사한 역할을 한다면, Django에서의 템플릿 (Template)은 MVC Framework에서의 View와 비슷한 역활을 한다. <br>템플릿 (Template)은 View로부터 전달된 데이터를 템플릿에 적용하여 Dynamic 한 웹페이지를 만드는데 사용된다.
+그러기위해서 먼저 Django에서의 "Views.py"라는 파일과 "템플릿"이라는 요소를 알아야하는데<br> Django에서의 View가 다른 MVC Framework에서의 Controller와 유사한 역할을 한다면, Django에서의 템플릿 (Template)은 MVC Framework에서의 View와 비슷한 역할을 한다. <br>템플릿 (Template)은 View로부터 전달된 데이터를 템플릿에 적용하여 Dynamic 한 웹페이지를 만드는데 사용된다.
 Template은 HTML 파일로서 Django App 폴더 밑에 "templates" 라는 서브폴더를 만들고 그 안에 템플릿 파일(*.html)을 생성한다. 이는 단일 App이거나 동일 템플릿명이 없는 경우 사용할 수 있다.<br><br><br><br>
 
 
