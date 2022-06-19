@@ -72,7 +72,8 @@ settings.py 내에서 allowed_host에 ip주소를 추가해준다.<br>
 <img src="https://user-images.githubusercontent.com/103643538/174478171-aa9935c9-5d21-47f4-9acb-17d9311e4143.PNG"><br><br><br>
 
 
-네이버 클라우드는 클라우드서비스를 제공하는데 결제수단을 먼저 등록해야 서버시스템을 사용할수있고, 서버 사양에따라, 공인ip를 추가할때마다 요금이 자동으로 빠져나가 조금 겁이나서 시도를 해보진 못했다...<br>
-여기서 결제를 하여 공인ip를 할당받으면 그 공인ip를 내 윈도우 visual studio code에서 작업한 장고에 allow host로 추가하여 그 주소로 서버를 열어서 작동시키는게 가능할것같았다.
+네이버 클라우드는 클라우드서비스를 제공하는데 결제수단을 먼저 등록해야 서버시스템을 사용할수있고, 서버를 추가하게되면 서버 사양에따라 요금이 자동결제되고, 공인ip를 추가할때마다 요금이 자동으로 결제된다고 안내되어있는데 정확히 어떤것들이 어떻게해야 무료인지 정확하게 알수가없어서 결제가 마구마구 될까봐 겁이나서 시도를 해보진 못했다...<br>
+여기서 공인ip를 할당받을때도 월마다 약 4000원을 내고 할당을 받게되면 그 공인ip를 내 윈도우 visual studio code에서 작업한 장고에 allow host로 추가하여 그 주소로 서버를 열어서 작동시키는게 가능할것같았다.
 <img src="https://user-images.githubusercontent.com/103643538/174478062-2d4b7294-5a22-4849-a083-5f64e20767f9.PNG"><br>
 <img src="https://user-images.githubusercontent.com/103643538/174478063-b089dcc0-cebd-4aa2-8c87-0817e773e69a.PNG"><br>
+<img src="https://user-images.githubusercontent.com/103643538/174478463-97ee816a-18c3-429e-8c2c-761b63e4ba2b.PNG">
